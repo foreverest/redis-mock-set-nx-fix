@@ -1,6 +1,6 @@
 {
-  "name": "redis-mock",
-  "version": "0.56.3",
+  "name": "redis-mock-set-nx-fix",
+  "version": "0.1.0",
   "description": "Redis client mock object for unit testing",
   "author": "Kristian Faeldt <kristian.faeldt@gmail.com>",
   "main": "./lib/index",
